@@ -1,0 +1,120 @@
+# Blender MTL File: 'tram.blend'
+# Material Count: 11
+
+newmtl FLOOR_1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Frr\\Documents\\Frr's Stuff\\AG0701a\\Second Year\\Semester 1\\Graphics Programming\\Labs\\Lab 11\\Models\\Tram\\model\\FLOOR_1.jpg
+
+newmtl ___0136_Charcoal__
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.137255 0.137255 0.137255
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+
+newmtl material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+
+newmtl material_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.670588 0.690196 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+
+newmtl material_1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Frr\\Documents\\Frr's Stuff\\AG0701a\\Second Year\\Semester 1\\Graphics Programming\\Labs\\Lab 11\\Models\\Tram\\model\\material_1.jpg
+
+newmtl material_2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Frr\\Documents\\Frr's Stuff\\AG0701a\\Second Year\\Semester 1\\Graphics Programming\\Labs\\Lab 11\\Models\\Tram\\model\\material_2.jpg
+
+newmtl material_2_1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Frr\\Documents\\Frr's Stuff\\AG0701a\\Second Year\\Semester 1\\Graphics Programming\\Labs\\Lab 11\\Models\\Tram\\model\\material_2_1.jpg
+
+newmtl material_3
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Frr\\Documents\\Frr's Stuff\\AG0701a\\Second Year\\Semester 1\\Graphics Programming\\Labs\\Lab 11\\Models\\Tram\\model\\material_3.jpg
+
+newmtl material_4
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Frr\\Documents\\Frr's Stuff\\AG0701a\\Second Year\\Semester 1\\Graphics Programming\\Labs\\Lab 11\\Models\\Tram\\model\\material_4.jpg
+
+newmtl material_4_5
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Frr\\Documents\\Frr's Stuff\\AG0701a\\Second Year\\Semester 1\\Graphics Programming\\Labs\\Lab 11\\Models\\Tram\\model\\texture_0.png
+
+newmtl material_6
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni -1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Frr\\Documents\\Frr's Stuff\\AG0701a\\Second Year\\Semester 1\\Graphics Programming\\Labs\\Lab 11\\Models\\Tram\\model\\texture_1.png
